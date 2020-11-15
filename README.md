@@ -1,8 +1,11 @@
-<img align="left" src="nancy.png" width="64px">
+<img align="left" src="nancy.png" width="96px">
 
-# HI
+## HI
+
 i am
-*negative nancy*
+
+***negative nancy***
+
 \>:T
 
 <!-- TODO: put some links and stuff here or something -->
