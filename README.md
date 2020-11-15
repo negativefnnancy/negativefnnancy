@@ -1,6 +1,6 @@
 <img align="left" src="nancy.png" width="96px">
 
-## HI
+### HI
 
 i am
 
@@ -8,4 +8,4 @@ i am
 
 \>:T
 
-<!-- TODO: put some links and stuff here or something -->
+<!-- TODO: put some links and badges n stuff here or something -->
