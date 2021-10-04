@@ -9,3 +9,6 @@ i am
 \>:T
 
 <!-- TODO: put some links and badges n stuff here or something -->
+
+
+<a href="https://github.com/MegaLoler">(my old/alt account hehe)</a>
